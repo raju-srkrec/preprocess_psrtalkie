@@ -5,6 +5,6 @@ Package
 
 This python package is prepared by subbaraju
 Install
-``pip install git+ssh://git@github.com/raju-srkrec/preprocess_psrtalkie.git
+`pip install git+ssh://git@github.com/raju-srkrec/preprocess_psrtalkie.git
 
-``pip unstall preprocess_psrtalkie
+`pip uninstall preprocess_psrtalkie
